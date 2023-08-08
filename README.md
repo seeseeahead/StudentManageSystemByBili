@@ -1,0 +1,2 @@
+# StudentManageSystemByBili
+本项目是一个学生管理系统，目前只写了学生信息的增删改查功能和简陋的列表页面
